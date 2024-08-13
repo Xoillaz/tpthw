@@ -29,4 +29,8 @@ print()
 
 # Additional Practice
 # - - -
-# [Your answer]
+# Try streamline the script.
+# Try transform the script into 1 line.
+    # That; depends; on; how; you; define; one; line; of; code. 
+# Read manual.
+# Every line matters.
